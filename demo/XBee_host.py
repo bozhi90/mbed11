@@ -54,5 +54,4 @@ while True:
     print(char.decode())
     time.sleep(1)
 
-
 s.close()
